@@ -11,9 +11,7 @@ def task(tuple1):
 
 start_time = perf_counter()
 
-# create two new threads
-# Corrected args
-t1 = Thread(target=task, args=((1, 2, 3),))  # Note the comma after the tuple
+t1 = Thread(target=task, args=((1, 2, 3),)) 
 t2 = Thread(target=task, args=((1, 2, 3),))
 
 # start the threads
