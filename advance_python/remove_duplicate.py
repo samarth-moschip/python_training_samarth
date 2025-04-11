@@ -1,6 +1,5 @@
 # Write a Python code to find unique element in list
 
-
 num = int(input("enter no of element in list:"))
 list1=[]
 temp=0

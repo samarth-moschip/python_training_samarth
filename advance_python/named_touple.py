@@ -1,4 +1,4 @@
-# Python code to demonstrate namedtuple()
+#Python code to demonstrate namedtuple()
   
 from collections import namedtuple
   

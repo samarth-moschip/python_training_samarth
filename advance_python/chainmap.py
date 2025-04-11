@@ -1,6 +1,5 @@
 # Python program to demonstrate ChainMap 
    
-   
 from collections import ChainMap 
    
    

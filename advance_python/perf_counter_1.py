@@ -1,3 +1,5 @@
+#program to demostrate time module
+
 from time import sleep, perf_counter
 
 def task():

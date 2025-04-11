@@ -1,3 +1,5 @@
+#program to implement binary search on given list
+
 def binary_search(lst, key):
     low = 0
     high = len(lst) - 1

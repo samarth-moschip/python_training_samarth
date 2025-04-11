@@ -1,3 +1,6 @@
+#program to display given number is perfect square or not
+#optimal approch using Binary search
+
 def is_perfect_square(num):
     if num < 1:
         return False
