@@ -1,3 +1,5 @@
+#Problem Statement:
+#This script display fib series of upto given number
 
 num=int(input("enter number upto print fib series:"))
 temp1=1

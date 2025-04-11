@@ -1,3 +1,5 @@
+# Problem Statement:
+# This script display total  number of vowels in given string
 
 String = input('Enter the string :')
 count = 0

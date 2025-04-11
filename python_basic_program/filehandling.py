@@ -1,4 +1,5 @@
-#dempstrate file handling 
+#Problem Statement:
+#The copy of content of one file to anothee file
 
 import shutil 
 

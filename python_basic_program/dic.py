@@ -1,3 +1,6 @@
+# Problem Statement:
+#This script display dictionary 
+
 thisdict =	{
   "brand": "Ford",
   "model": "Mustang",

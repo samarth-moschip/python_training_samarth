@@ -1,3 +1,6 @@
+# Problem Statement:
+#This script display given number is odd or even
+
 num=int(input("enter number:"))
 
 if num%2==0:

@@ -1,4 +1,6 @@
-# Base class
+#function to demostrate polymorphism 
+
+#Base class
 class Employee:
     def __init__(self):
         print("Hello from Employee class constructor")
@@ -15,8 +17,6 @@ class samarth(Employee):
 
     def fun1(self):
         print("Hello from fun1 function")
-
-
 
 emp = samarth() 
 emp.fun1()      

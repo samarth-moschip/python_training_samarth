@@ -1,7 +1,11 @@
-# import the time module 
-import time 
+# Problem Statement:
+# This script display timer 
+# The user provides the total number of seconds 
+# The script then prints a timer
 
-# define the countdown func. 
+#import the time module 
+import time 
+ 
 def countdown(t): 
 	
 	while t: 
@@ -12,10 +16,5 @@ def countdown(t):
 		time.sleep(1) 
 		t -= 1
 	
-
-
-# input time in seconds 
 t = input("Enter the time in seconds: ") 
-
-# function call 
 countdown(int(t)) 

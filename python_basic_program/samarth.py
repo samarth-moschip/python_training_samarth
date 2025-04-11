@@ -1,3 +1,5 @@
+#program to print 'S' pattarn.
+ 
 for i in range(1, 16):  
     for j in range(1, 16):  
         if (i == 1 and j > 1 and j < 15) or (i == 15 and j > 1 and j < 15) or (i == 7 and j > 1 and j < 15) or \
