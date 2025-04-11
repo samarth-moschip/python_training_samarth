@@ -1,6 +1,8 @@
+#program to demostrate a json module 
+
 import json 
 
-employee_dict = {'id': '09', 'name': 'Nitin', 'department': 'Finance'} 
+employee_dict = {'id': '09', 'name': 'samarth', 'department': 'digital'} 
 print("This is Python", type(employee_dict)) 
 
 print("\nNow Convert from Python to JSON") 

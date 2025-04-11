@@ -1,3 +1,5 @@
+#program to create nested list
+
 list1 = []
 
 num = int(input("Enter the number of lists you want to insert into a single list: "))

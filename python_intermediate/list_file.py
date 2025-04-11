@@ -1,3 +1,5 @@
+#program to demostrate to diplay all file in given directory ane raname the file name
+
 import os
 
 print(os.getcwd())

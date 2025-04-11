@@ -1,4 +1,4 @@
-#demostrate the struct
+#program to demostrate the struct module
 
 import struct
 converted_bytes = struct.pack('3i',1,2,3)

@@ -1,3 +1,5 @@
+#program to demostrate is given string is anagram or not
+
 str1 = "samarth"
 str2 = "thsamar"
 

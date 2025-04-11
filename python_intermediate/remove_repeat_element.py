@@ -1,3 +1,5 @@
+#program to remove repeated element in given lists
+
 num = int(input("Enter number of elements in the list: "))
 list1 = []
 list2=[]
